@@ -14,10 +14,10 @@ Content
 
 **clarity** - a measurement of how clear the diamond is (I1 (worst), SI2, SI1, VS2, VS1, VVS2, VVS1, IF (best))
 
-**x** - length in mm (0--10.74)
+**x** - length in mm (0-10.74)
 
-**y** - width in mm (0--58.9)
+**y** - width in mm (0-58.9)
 
-**z** - depth in mm (0--31.8)
+**z** - depth in mm (0-31.8)
 
 **price** - price in US dollars ($326-$18,823) (target variable)
